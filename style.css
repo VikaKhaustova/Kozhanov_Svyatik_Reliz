@@ -228,7 +228,7 @@ h1 {
 
 .about-us-text {
     margin-top: 50px;
-    height: 400px;
+    height: 500px;
     padding: 95px;
     display: flex;
     justify-content: space-between;
@@ -247,7 +247,7 @@ h1 {
 .about-us p {
     color: #ffffff;
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 44px;
 }
 
 footer {
